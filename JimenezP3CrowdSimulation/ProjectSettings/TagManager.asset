@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Goal
   - goal
+  - agent
   layers:
   - Default
   - TransparentFX
